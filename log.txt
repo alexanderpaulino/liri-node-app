@@ -1,0 +1,163 @@
+
+Command to run: my-tweets
+----------------------------
+Beginning Twitter feed...
+----------------------------
+1.
+Text: Four star general: "I know something about the flag ... put me down with Kaepernick" https://t.co/U56Bun4fzt
+Published: Wed Sep 27 00:29:53 +0000 2017
+----------------------------
+2.
+Text: IRS shares information with special counsel in Russia probe https://t.co/x4HBg6BkVn
+Published: Wed Sep 27 00:29:37 +0000 2017
+----------------------------
+3.
+Text: Protesters Banned At Jeff Sessions Lecture On Free Speech https://t.co/krxmIho7Ch
+Published: Wed Sep 27 00:29:06 +0000 2017
+----------------------------
+4.
+Text: Sean Spicer Hires A Lawyer https://t.co/0KjJAFdVHC
+Published: Wed Sep 27 00:28:44 +0000 2017
+----------------------------
+5.
+Text: McCain defends NFL protests: 'That's their right' https://t.co/S8iQ0E8uvA
+Published: Wed Sep 27 00:28:25 +0000 2017
+----------------------------
+6.
+Text: Blumenthal: ‘99 percent sure’ of Flynn, Manafort indictments https://t.co/LP993Qyq8B
+Published: Wed Sep 27 00:28:05 +0000 2017
+----------------------------
+7.
+Text: Investigators follow flow of money to Trump from wealthy donors with Russian ties https://t.co/05U4BxBjqC
+Published: Wed Sep 27 00:27:35 +0000 2017
+----------------------------
+8.
+Text: Clinton: I’m not sure Trump knows Puerto Ricans are US citizens https://t.co/HuH79VDcSk
+Published: Wed Sep 27 00:27:06 +0000 2017
+----------------------------
+9.
+Text: Nearly Half of Americans Don’t Know Puerto Ricans Are Fellow Citizens https://t.co/Zo2XIe4xEc
+Published: Wed Sep 27 00:08:49 +0000 2017
+----------------------------
+10.
+Text: Stephen K. Bannon’s remarkable admission: Trump is easily duped https://t.co/gp2zav1KzH
+Published: Wed Sep 27 00:08:28 +0000 2017
+----------------------------
+11.
+Text: San Juan mayor on Trump tweets: 'You don't put debt above people' https://t.co/dAHjtyTpnT
+Published: Wed Sep 27 00:08:03 +0000 2017
+----------------------------
+12.
+Text: Mueller Probe Turns to White House Officials https://t.co/jczkVHaoWe
+Published: Wed Sep 27 00:07:28 +0000 2017
+----------------------------
+13.
+Text: I’m an 80-Year-Old Holocaust Survivor. Antifas Aren’t Scary. Neo-Nazis Are https://t.co/UmmT0feTvP
+Published: Wed Sep 27 00:07:09 +0000 2017
+----------------------------
+14.
+Text: There Should Be 'Great Anger' Over Trump's Puerto Rico Response https://t.co/WAmnCK1XPm
+Published: Wed Sep 27 00:06:42 +0000 2017
+----------------------------
+15.
+Text: Hillary Clinton slams Trump admin. over private emails: 'Height of hypocrisy' https://t.co/7RNgUcQIC8
+Published: Wed Sep 27 00:06:13 +0000 2017
+----------------------------
+16.
+Text: Experts Are Stunned By The "Sheer Stupidity" Of Including Chad In The Travel Ban https://t.co/9MzVDWGbXZ
+Published: Wed Sep 27 00:02:41 +0000 2017
+----------------------------
+17.
+Text: Warner: 'Million-dollar question' how Russians knew who to target on Facebook https://t.co/NGRHNs9yLy
+Published: Wed Sep 27 00:01:48 +0000 2017
+----------------------------
+18.
+Text: Celtics legend Bill Russell takes a knee while wearing Presidential Medal of Freedom https://t.co/V4H9kThOiP
+Published: Wed Sep 27 00:00:00 +0000 2017
+----------------------------
+19.
+Text: Joe Scarborough asks: Who raised the people that booed John McCain? https://t.co/qmJQ6TouxR
+Published: Tue Sep 26 23:59:11 +0000 2017
+----------------------------
+20.
+Text: About to post the current trending topics on https://t.co/x9ir7RqrwR to see how this feed functions...
+Published: Tue Sep 26 23:58:12 +0000 2017
+
+Command to run: spotify-this-song,All,the,Small,Things
+---------------------------------------------
+Beginning Spotify search...
+---------------------------------------------
+Artist: blink-182
+Song Name: All The Small Things
+Link: https://open.spotify.com/track/7yCPwWs66K8Ba5lFuU2bcx
+Album: Enema Of The State
+---------------------------------------------
+
+Command to run: spotify-this-song
+---------------------------------------------
+Beginning Spotify search...
+---------------------------------------------
+Artist: Ace of Base
+Song Name: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=d201f130448c47e3b551a64fa79d44e8
+Album: The Sign (US Album) [Remastered]
+---------------------------------------------
+
+Command to run: spotify-this-song,Survive,Rise,Against
+---------------------------------------------
+Beginning Spotify search...
+---------------------------------------------
+Artist: Rise Against
+Song Name: Survive
+Link: https://open.spotify.com/track/5QdGtvqKitrxvF2OsX4bU9
+Album: The Sufferer & The Witness
+---------------------------------------------
+
+Command to run: spotify-this-song,Dragonforce
+---------------------------------------------
+Beginning Spotify search...
+---------------------------------------------
+Artist: DragonForce
+Song Name: Through The Fire And Flames
+Preview Link: https://p.scdn.co/mp3-preview/31e9d0498bea2c4e1a428b4254d6f18242f17866?cid=d201f130448c47e3b551a64fa79d44e8
+Album: Inhuman Rampage
+---------------------------------------------
+
+Command to run: movie-this,The,Assassination,of,Jesse,James
+---------------------------------------------
+Beginning movie search...
+---------------------------------------------
+Title: The Assassination of Jesse James by the Coward Robert Ford
+Released: 19 Oct 2007
+IMDB Rating: 7.5
+Rotten Tomatoes Rating: 76%
+Produced in USA, Canada, UK
+Language: English, Danish
+Plot: Robert Ford, who's idolized Jesse James since childhood, tries hard to join the reforming gang of the Missouri outlaw, but gradually becomes resentful of the bandit leader.
+---------------------------------------------
+
+Command to run: movie-this
+---------------------------------------------
+Beginning movie search...
+---------------------------------------------
+Title: Mr. Nobody
+Released: 26 Sep 2013
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 64%
+Produced in Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+---------------------------------------------
+
+Command to run: movie-this,The,Matrix
+---------------------------------------------
+Beginning movie search...
+---------------------------------------------
+Title: The Matrix
+Released: 31 Mar 1999
+IMDB Rating: 8.7
+Rotten Tomatoes Rating: 87%
+Produced in USA
+Language: English
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+---------------------------------------------
