@@ -171,3 +171,572 @@ Song Name: I Want It That Way
 Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d201f130448c47e3b551a64fa79d44e8
 Album: The Hits--Chapter One
 ---------------------------------------------
+
+Command to run: movie-this,matrix
+
+Command to run: movie-this,matrix,reloaded
+---------------------------------------------
+Beginning movie search...
+---------------------------------------------
+Title: The Matrix Reloaded
+Released: 15 May 2003
+IMDB Rating: 7.2
+Rotten Tomatoes Rating: 73%
+Produced in USA, Australia
+Language: English, French
+Plot: Neo and the rebel leaders estimate that they have 72 hours until 250,000 probes discover Zion and destroy it and its inhabitants. During this, Neo must decide how he can save Trinity from a dark fate in his dreams.
+---------------------------------------------
+
+Command to run: spotify-this-song,Survive,Rise,Against
+---------------------------------------------
+Beginning Spotify search...
+---------------------------------------------
+1.
+Artist: Rise Against
+Song Name: Survive
+---------------------------------------------
+2.
+Artist: Rise Against
+Song Name: Survive
+Link: https://open.spotify.com/track/5dipqRTigIgHuMNt3EEWwC
+Link: https://open.spotify.com/track/5QdGtvqKitrxvF2OsX4bU9
+Album: The Sufferer & The Witness
+---------------------------------------------
+Album: Endgame / Appeal To Reason / Siren Song Of The Counter Culture / The Sufferer & The Witness
+---------------------------------------------
+---------------------------------------------
+3.
+Artist: Rise Against
+Song Name: Survive - edited
+Link: https://open.spotify.com/track/0h2pLOypSiD0cSa2KbpaJN
+Album: The Sufferer & The Witness
+---------------------------------------------
+
+Command to run: spotify-this-song,Survive
+---------------------------------------------
+Beginning Spotify search...
+---------------------------------------------
+1.
+Artist: Gloria Gaynor
+Song Name: I Will Survive
+Link: https://open.spotify.com/track/7cv28LXcjAC3GsXbUvXKbX
+Album: 20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor
+---------------------------------------------
+---------------------------------------------
+2.
+Artist: Hank Williams, Jr.
+Song Name: A Country Boy Can Survive
+Preview Link: https://p.scdn.co/mp3-preview/6c278f980b5594b4f9ecbaef1af37e2857d0a574?cid=d201f130448c47e3b551a64fa79d44e8
+Album: The Bocephus Box Set
+---------------------------------------------
+---------------------------------------------
+3.
+Artist: Cake
+Song Name: I Will Survive
+Preview Link: https://p.scdn.co/mp3-preview/5ec7ceb1dee774bc5bb37a9fb7e7cde9c502d30a?cid=d201f130448c47e3b551a64fa79d44e8
+Album: Fashion Nugget
+---------------------------------------------
+---------------------------------------------
+4.
+Artist: Circa Survive
+Song Name: Tunnel Vision
+Preview Link: https://p.scdn.co/mp3-preview/09921873dde66362e0588f7f27333c72607f521a?cid=d201f130448c47e3b551a64fa79d44e8
+Album: The Amulet
+---------------------------------------------
+---------------------------------------------
+5.
+Artist: Dr. Dog
+Song Name: Survive
+Preview Link: https://p.scdn.co/mp3-preview/24b7180e1cbabb4a40c83bf4bdf592d34e40bdad?cid=d201f130448c47e3b551a64fa79d44e8
+Album: Abandoned Mansion
+---------------------------------------------
+---------------------------------------------
+6.
+Artist: Will Connolly
+Song Name: More Than Survive
+Preview Link: https://p.scdn.co/mp3-preview/ae885288ff0aa44dd45cd62fba303e7f275e6a9b?cid=d201f130448c47e3b551a64fa79d44e8
+Album: Be More Chill (Original Cast Recording)
+---------------------------------------------
+---------------------------------------------
+7.
+Artist: Hank Williams, Jr.
+Song Name: A Country Boy Can Survive
+Preview Link: https://p.scdn.co/mp3-preview/6c278f980b5594b4f9ecbaef1af37e2857d0a574?cid=d201f130448c47e3b551a64fa79d44e8
+Album: The Pressure Is On
+---------------------------------------------
+---------------------------------------------
+8.
+Artist: Gloria Gaynor
+Song Name: I Will Survive - Rerecorded
+Preview Link: https://p.scdn.co/mp3-preview/0f5744013a9c7464474a7c634a7880306ad1297d?cid=d201f130448c47e3b551a64fa79d44e8
+Album: I Will Survive (Rerecorded)
+---------------------------------------------
+---------------------------------------------
+9.
+Artist: Circa Survive
+Song Name: Never Tell A Soul
+Preview Link: https://p.scdn.co/mp3-preview/0736c1a54bc73fb23e66a4f6b7abe23b91d44a5f?cid=d201f130448c47e3b551a64fa79d44e8
+Album: The Amulet
+---------------------------------------------
+---------------------------------------------
+10.
+Artist: Circa Survive
+Song Name: Lustration
+Preview Link: https://p.scdn.co/mp3-preview/ab56fb0222893a801dd281b3e800a72c26d40a81?cid=d201f130448c47e3b551a64fa79d44e8
+Album: The Amulet
+---------------------------------------------
+---------------------------------------------
+11.
+Artist: Circa Survive
+Song Name: Premonition of the Hex
+Preview Link: https://p.scdn.co/mp3-preview/18ecf7e5ff765e8b0d97d622a5a8f67f51421c9c?cid=d201f130448c47e3b551a64fa79d44e8
+Album: The Amulet
+---------------------------------------------
+---------------------------------------------
+12.
+Artist: Circa Survive
+Song Name: At Night It Gets Worse
+Preview Link: https://p.scdn.co/mp3-preview/62eae4f64f49490c7ab644adc05d34340236e717?cid=d201f130448c47e3b551a64fa79d44e8
+Album: The Amulet
+---------------------------------------------
+---------------------------------------------
+13.
+Artist: Circa Survive
+Song Name: Stay
+Preview Link: https://p.scdn.co/mp3-preview/238003a83c79ca96344fe653fa668ccd99762f7c?cid=d201f130448c47e3b551a64fa79d44e8
+Album: The Amulet
+---------------------------------------------
+---------------------------------------------
+14.
+Artist: Circa Survive
+Song Name: Flesh and Bone
+Preview Link: https://p.scdn.co/mp3-preview/4c307d744c5d12d4fbe05e0e70e4437908dcb712?cid=d201f130448c47e3b551a64fa79d44e8
+Album: The Amulet
+---------------------------------------------
+---------------------------------------------
+15.
+Artist: Circa Survive
+Song Name: Rites of Investiture
+Preview Link: https://p.scdn.co/mp3-preview/ccffa3995b13c6a6b8312a935aba8046e48e81b5?cid=d201f130448c47e3b551a64fa79d44e8
+Album: The Amulet
+---------------------------------------------
+---------------------------------------------
+16.
+Artist: Circa Survive
+Song Name: Get Out
+Preview Link: https://p.scdn.co/mp3-preview/db81f4194771add14fcb9e1f67afe63df85bd4bb?cid=d201f130448c47e3b551a64fa79d44e8
+Album: Blue Sky Noise (Deluxe Version)
+---------------------------------------------
+---------------------------------------------
+17.
+Artist: Circa Survive
+Song Name: The Amulet
+Preview Link: https://p.scdn.co/mp3-preview/e590ef300a6a643af24a50d1b6da552052627a21?cid=d201f130448c47e3b551a64fa79d44e8
+Album: The Amulet
+---------------------------------------------
+---------------------------------------------
+18.
+Artist: Circa Survive
+Song Name: The Hex
+Preview Link: https://p.scdn.co/mp3-preview/6f74723e725c13e66e39ee8864a201e2c21451de?cid=d201f130448c47e3b551a64fa79d44e8
+Preview Link: https://p.scdn.co/mp3-preview/e1c1503c94313721c20b231064f83c1ed3d81704?cid=d201f130448c47e3b551a64fa79d44e8
+Album: Survive
+---------------------------------------------
+Album: The Amulet
+---------------------------------------------
+---------------------------------------------
+19.
+Artist: Vanze
+Song Name: Survive
+---------------------------------------------
+20.
+Artist: Rise Against
+Song Name: Survive
+Link: https://open.spotify.com/track/5QdGtvqKitrxvF2OsX4bU9
+Album: The Sufferer & The Witness
+---------------------------------------------
+
+Command to run: spotify-this-song,Appeal,to,Reason
+---------------------------------------------
+Beginning Spotify search...
+---------------------------------------------
+1.
+Artist: Rise Against
+Song Name: Savior
+Link: https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm
+Album: Appeal To Reason
+---------------------------------------------
+---------------------------------------------
+2.
+Artist: Rise Against
+Song Name: Hero Of War
+Link: https://open.spotify.com/track/2y6zrJK0sgeQt6oNkz6Xb7
+Album: Appeal To Reason
+---------------------------------------------
+---------------------------------------------
+3.
+Artist: Rise Against
+Song Name: Re-Education (Through Labor)
+Link: https://open.spotify.com/track/6xLlFIY9nuri5BR0Cp84ea
+Album: Appeal To Reason
+---------------------------------------------
+---------------------------------------------
+4.
+Artist: Rise Against
+Song Name: Prayer Of The Refugee
+Link: https://open.spotify.com/track/3wTyLh0vhP3dN5yv0Mti17
+Album: Endgame / Appeal To Reason / Siren Song Of The Counter Culture / The Sufferer & The Witness
+---------------------------------------------
+---------------------------------------------
+5.
+Artist: Rise Against
+Song Name: Audience Of One
+Link: https://open.spotify.com/track/2gTXHAdDkCTGT9paqmgzEB
+Album: Appeal To Reason
+---------------------------------------------
+---------------------------------------------
+6.
+Artist: Rise Against
+Song Name: From Heads Unworthy
+Link: https://open.spotify.com/track/4lNADt6V7Esga2LvyiGiBJ
+Album: Appeal To Reason
+---------------------------------------------
+---------------------------------------------
+7.
+Artist: Rise Against
+Song Name: The Dirt Whispered
+Link: https://open.spotify.com/track/2osuq0i7ACgHUO2SmZhx2H
+Album: Appeal To Reason
+---------------------------------------------
+---------------------------------------------
+8.
+Artist: Rise Against
+Song Name: The Strength To Go On
+Link: https://open.spotify.com/track/5YQwM48VhYC2kNCi5QTtjx
+Album: Appeal To Reason
+---------------------------------------------
+---------------------------------------------
+9.
+Artist: Rise Against
+Song Name: Collapse (Post-Amerika)
+Link: https://open.spotify.com/track/5ODOI1L5b65QrDNBGVpRvJ
+Album: Appeal To Reason
+---------------------------------------------
+---------------------------------------------
+10.
+Artist: Rise Against
+Song Name: Long Forgotten Sons
+Link: https://open.spotify.com/track/3ePLB8GWrgyVsqSe7vEsSN
+Album: Appeal To Reason
+---------------------------------------------
+---------------------------------------------
+11.
+Artist: Rise Against
+Song Name: Entertainment
+Link: https://open.spotify.com/track/4LeNSNcrs0pQ18p1fFCnvA
+Album: Appeal To Reason
+---------------------------------------------
+---------------------------------------------
+12.
+Artist: Rise Against
+Song Name: Kotov Syndrome
+Link: https://open.spotify.com/track/1kGfGuwKvU1NwZveo5bj8I
+Album: Appeal To Reason
+---------------------------------------------
+---------------------------------------------
+13.
+Artist: Rise Against
+Song Name: Hairline Fracture
+Link: https://open.spotify.com/track/4dMZ0ueUQch24tjzNuzjbg
+Album: Appeal To Reason
+---------------------------------------------
+---------------------------------------------
+14.
+Artist: Rise Against
+Song Name: Whereabouts Unknown
+Link: https://open.spotify.com/track/0MU8AKeASkeQ3fBKTPBlMZ
+Album: Appeal To Reason
+---------------------------------------------
+Album: Endgame / Appeal To Reason / Siren Song Of The Counter Culture / The Sufferer & The Witness
+---------------------------------------------
+---------------------------------------------
+16.
+Artist: Rise Against
+Song Name: Give It All
+---------------------------------------------
+15.
+Artist: Rise Against
+Song Name: Re-Education (Through Labor)
+Link: https://open.spotify.com/track/2TJqTvzycPZiHcTSgih4d9
+Link: https://open.spotify.com/track/11P8PMjut7t75FPzHTgd0L
+Album: Endgame / Appeal To Reason / Siren Song Of The Counter Culture / The Sufferer & The Witness
+---------------------------------------------
+Link: https://open.spotify.com/track/2btgb1rnfFgWZCPQdFK1lH
+---------------------------------------------
+17.
+Artist: Rise Against
+Song Name: Ready To Fall
+---------------------------------------------
+18.
+Artist: Rise Against
+Song Name: Under The Knife
+Album: Endgame / Appeal To Reason / Siren Song Of The Counter Culture / The Sufferer & The Witness
+---------------------------------------------
+Link: https://open.spotify.com/track/4H9ifdj1oZr60PZXwIeutP
+Album: Endgame / Appeal To Reason / Siren Song Of The Counter Culture / The Sufferer & The Witness
+---------------------------------------------
+---------------------------------------------
+19.
+Artist: Rise Against
+Song Name: Help Is On The Way
+Link: https://open.spotify.com/track/1PrJJdfnlMl7c5T7TP93VD
+Album: Endgame / Appeal To Reason / Siren Song Of The Counter Culture / The Sufferer & The Witness
+---------------------------------------------
+---------------------------------------------
+20.
+Artist: Rise Against
+Song Name: Savior
+Link: https://open.spotify.com/track/214d84vwqQSUA09bNtIgRr
+Album: Endgame / Appeal To Reason / Siren Song Of The Counter Culture / The Sufferer & The Witness
+---------------------------------------------
+
+Command to run: movie-this,Remember,the,Titans
+---------------------------------------------
+Beginning movie search...
+---------------------------------------------
+Title: Remember the Titans
+Released: 29 Sep 2000
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 73%
+Produced in USA
+Language: English
+Plot: The true story of a newly appointed African-American coach and his high school team on their first season as a racially integrated unit.
+---------------------------------------------
+
+Command to run: my-tweets
+----------------------------
+Beginning Twitter feed...
+----------------------------
+1.
+Text: Four star general: "I know something about the flag ... put me down with Kaepernick" https://t.co/U56Bun4fzt
+Published: Wed Sep 27 00:29:53 +0000 2017
+----------------------------
+2.
+Text: IRS shares information with special counsel in Russia probe https://t.co/x4HBg6BkVn
+Published: Wed Sep 27 00:29:37 +0000 2017
+----------------------------
+3.
+Text: Protesters Banned At Jeff Sessions Lecture On Free Speech https://t.co/krxmIho7Ch
+Published: Wed Sep 27 00:29:06 +0000 2017
+----------------------------
+4.
+Text: Sean Spicer Hires A Lawyer https://t.co/0KjJAFdVHC
+Published: Wed Sep 27 00:28:44 +0000 2017
+----------------------------
+5.
+Text: McCain defends NFL protests: 'That's their right' https://t.co/S8iQ0E8uvA
+Published: Wed Sep 27 00:28:25 +0000 2017
+----------------------------
+6.
+Text: Blumenthal: ‘99 percent sure’ of Flynn, Manafort indictments https://t.co/LP993Qyq8B
+Published: Wed Sep 27 00:28:05 +0000 2017
+----------------------------
+7.
+Text: Investigators follow flow of money to Trump from wealthy donors with Russian ties https://t.co/05U4BxBjqC
+Published: Wed Sep 27 00:27:35 +0000 2017
+----------------------------
+8.
+Text: Clinton: I’m not sure Trump knows Puerto Ricans are US citizens https://t.co/HuH79VDcSk
+Published: Wed Sep 27 00:27:06 +0000 2017
+----------------------------
+9.
+Text: Nearly Half of Americans Don’t Know Puerto Ricans Are Fellow Citizens https://t.co/Zo2XIe4xEc
+Published: Wed Sep 27 00:08:49 +0000 2017
+----------------------------
+10.
+Text: Stephen K. Bannon’s remarkable admission: Trump is easily duped https://t.co/gp2zav1KzH
+Published: Wed Sep 27 00:08:28 +0000 2017
+----------------------------
+11.
+Text: San Juan mayor on Trump tweets: 'You don't put debt above people' https://t.co/dAHjtyTpnT
+Published: Wed Sep 27 00:08:03 +0000 2017
+----------------------------
+12.
+Text: Mueller Probe Turns to White House Officials https://t.co/jczkVHaoWe
+Published: Wed Sep 27 00:07:28 +0000 2017
+----------------------------
+13.
+Text: I’m an 80-Year-Old Holocaust Survivor. Antifas Aren’t Scary. Neo-Nazis Are https://t.co/UmmT0feTvP
+Published: Wed Sep 27 00:07:09 +0000 2017
+----------------------------
+14.
+Text: There Should Be 'Great Anger' Over Trump's Puerto Rico Response https://t.co/WAmnCK1XPm
+Published: Wed Sep 27 00:06:42 +0000 2017
+----------------------------
+15.
+Text: Hillary Clinton slams Trump admin. over private emails: 'Height of hypocrisy' https://t.co/7RNgUcQIC8
+Published: Wed Sep 27 00:06:13 +0000 2017
+----------------------------
+16.
+Text: Experts Are Stunned By The "Sheer Stupidity" Of Including Chad In The Travel Ban https://t.co/9MzVDWGbXZ
+Published: Wed Sep 27 00:02:41 +0000 2017
+----------------------------
+17.
+Text: Warner: 'Million-dollar question' how Russians knew who to target on Facebook https://t.co/NGRHNs9yLy
+Published: Wed Sep 27 00:01:48 +0000 2017
+----------------------------
+18.
+Text: Celtics legend Bill Russell takes a knee while wearing Presidential Medal of Freedom https://t.co/V4H9kThOiP
+Published: Wed Sep 27 00:00:00 +0000 2017
+----------------------------
+19.
+Text: Joe Scarborough asks: Who raised the people that booed John McCain? https://t.co/qmJQ6TouxR
+Published: Tue Sep 26 23:59:11 +0000 2017
+----------------------------
+20.
+Text: About to post the current trending topics on https://t.co/x9ir7RqrwR to see how this feed functions...
+Published: Tue Sep 26 23:58:12 +0000 2017
+
+Command to run: do-what-it-says
+---------------------------------------------
+Beginning Spotify search...
+---------------------------------------------
+1.
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d201f130448c47e3b551a64fa79d44e8
+---------------------------------------------
+2.
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Album: The Hits--Chapter One
+---------------------------------------------
+Preview Link: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=d201f130448c47e3b551a64fa79d44e8
+Album: The Essential Backstreet Boys
+---------------------------------------------
+---------------------------------------------
+3.
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=d201f130448c47e3b551a64fa79d44e8
+Album: Millennium
+---------------------------------------------
+---------------------------------------------
+4.
+Artist: Anthem Lights
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=d201f130448c47e3b551a64fa79d44e8
+Album: Covers Part IV
+---------------------------------------------
+---------------------------------------------
+5.
+Artist: Glee Cast
+Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview Link: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=d201f130448c47e3b551a64fa79d44e8
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+---------------------------------------------
+---------------------------------------------
+6.
+Artist: Manuel Costa
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=d201f130448c47e3b551a64fa79d44e8
+Album: I Want It That Way
+---------------------------------------------
+---------------------------------------------
+7.
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=d201f130448c47e3b551a64fa79d44e8
+Album: 90 Sweet 90s Hits!
+---------------------------------------------
+---------------------------------------------
+8.
+Artist: Dynamite Boy
+Song Name: I Want It That Way
+Link: https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN
+Album: Punk Goes Pop
+---------------------------------------------
+---------------------------------------------
+9.
+Artist: "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview Link: https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c?cid=d201f130448c47e3b551a64fa79d44e8
+Album: Poodle Hat
+---------------------------------------------
+---------------------------------------------
+10.
+Artist: Kyle Olthoff
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=d201f130448c47e3b551a64fa79d44e8
+---------------------------------------------
+11.
+Artist: Boyce Avenue
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=d201f130448c47e3b551a64fa79d44e8
+Album: I Want It That Way
+---------------------------------------------
+Album: New Acoustic Sessions, Vol. 3
+---------------------------------------------
+---------------------------------------------
+12.
+Artist: Landon Austin & Julia Sheer
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=d201f130448c47e3b551a64fa79d44e8
+Album: I Want It That Way
+---------------------------------------------
+---------------------------------------------
+13.
+Artist: "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview Link: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=d201f130448c47e3b551a64fa79d44e8
+Album: The Essential "Weird Al" Yankovic
+---------------------------------------------
+---------------------------------------------
+14.
+Artist: Steel Panther
+Song Name: I Want It That Way
+Link: https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY
+Album: I Want It That Way
+---------------------------------------------
+---------------------------------------------
+15.
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=d201f130448c47e3b551a64fa79d44e8
+Album: NOW That's What I Call 90s Pop
+---------------------------------------------
+---------------------------------------------
+16.
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=d201f130448c47e3b551a64fa79d44e8
+Album: NKOTBSB
+---------------------------------------------
+---------------------------------------------
+17.
+Artist: Kaiak
+Song Name: I Want It That Way - Acoustic
+Preview Link: https://p.scdn.co/mp3-preview/6aa034496f6f07cb425d1ff8d0e2a2f8d61acfbc?cid=d201f130448c47e3b551a64fa79d44e8
+Album: I Want It That Way (Acoustic)
+---------------------------------------------
+---------------------------------------------
+18.
+Artist: Scott Bradlee's Postmodern Jukebox
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=d201f130448c47e3b551a64fa79d44e8
+Album: Selfies on Kodachrome
+---------------------------------------------
+---------------------------------------------
+19.
+Artist: Jason Chen
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/cba62099b5bec2bc9244aaeaba0422556f6df04e?cid=d201f130448c47e3b551a64fa79d44e8
+Album: I Want It That Way
+---------------------------------------------
+---------------------------------------------
+20.
+Artist: Scott Bradlee's Postmodern Jukebox
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=d201f130448c47e3b551a64fa79d44e8
+Album: PMJ Is For Lovers: The Love Song Collection
+---------------------------------------------
